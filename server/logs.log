@@ -1,0 +1,4 @@
+06-27 21:37:40 WARN  [AbstractBootstrap]: Unknown channel option 'SO_KEEPALIVE' for channel '[id: 0x25b889d9]' 
+06-27 21:37:40 INFO  [AbstractInternalLogger]: [id: 0x25b889d9] REGISTERED 
+06-27 21:37:40 INFO  [AbstractInternalLogger]: [id: 0x25b889d9] BIND: 0.0.0.0/0.0.0.0:8899 
+06-27 21:37:40 INFO  [AbstractInternalLogger]: [id: 0x25b889d9, L:/[0:0:0:0:0:0:0:0]:8899] ACTIVE 
